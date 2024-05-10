@@ -34,6 +34,8 @@ Publish the website in the given URL.
 DEVELOPED BY: SHRIKRISHNA V
 REG. NO.: 212223040198
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +57,7 @@ REG. NO.: 212223040198
         text-align: center;
         background-color: rgb(255, 0, 0);
         padding: 30px;
-        border-radius: 100px;
+        border-radius: 10px;
     }
     form {
         margin-bottom: 2px;
@@ -66,7 +68,7 @@ REG. NO.: 212223040198
     label {
         display: flex;
         margin-bottom: 10px;
-        font-family: cursive;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         margin-top: 10px;
     }
     input[type="number"] {
@@ -83,7 +85,7 @@ REG. NO.: 212223040198
         border: none;
         border-radius: 4px;
         cursor: pointer;
-        font-family: cursive;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     button:hover {
         background-color: #ffffff;
@@ -100,10 +102,10 @@ REG. NO.: 212223040198
     }
     .topic{
         color: #ffffff;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     h3{
-        font-family: cursive;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 </style>
 </head>
@@ -184,7 +186,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![image](https://github.com/Wkrish28/MathServer/assets/144295230/69fad39b-0c4a-477e-be25-276f00d0e854)
+![image](https://github.com/Wkrish28/MathServer/assets/144295230/ffdafac0-2dd2-46aa-bcbe-a44a984ba01b)
+
 
 
 ## RESULT:
